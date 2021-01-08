@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer based at Lubumbashi, DRC 🇨🇩.
+I'm a software developer based at Lubumbashi, DRC 🇨🇩.
 
 ## Some more background
 - Developing for Android since 2019 (using Kotlin).
