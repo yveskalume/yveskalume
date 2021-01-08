@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I'm a software developer based at Lubumbashi, DRC 🇨🇩.
 
@@ -6,7 +6,7 @@ I'm a software developer based at Lubumbashi, DRC 🇨🇩.
 - Developing for Android since 2019 (using Kotlin).
 - Keenly interested in Kotlin ecosystem.
 
-![Yves's github stats](https://github-readme-stats.vercel.app/api?username=yveskalume&theme=dracula&show_icons=true&count_private=true)
+![Yves's github stats](https://github-readme-stats.vercel.app/api?username=yveskalume&show_icons=true&count_private=true&include_all_commits=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yveskalume&layout=compact)
 
