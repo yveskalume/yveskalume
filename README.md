@@ -3,7 +3,7 @@
 I'm a software developer based at Lubumbashi, DRC 🇨🇩.
 
 ## Some more background
-- Developing for Android since 2019 (using Kotlin).
+- Developing for Android since 2019.
 - Keenly interested in Kotlin ecosystem.
 
 ![Yves's github stats](https://github-readme-stats.vercel.app/api?username=yveskalume&show_icons=true&count_private=true&include_all_commits=true)
