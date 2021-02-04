@@ -13,7 +13,10 @@ I'm a software developer based at Lubumbashi, DRC 🇨🇩.
 <!--
 **YvesKalume/yveskalume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-You can find and get touch with me on these accounts!
+<h3> 🤝🏻 Hangout with Me </h3>
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/yveskalume) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/kalumeyves/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/kalumeyves)
-|---|---|---|
+<p align="center">
+<a href="https://www.linkedin.com/in/yves-kalume-b83a4b17a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YvesKalume-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://https://twitter.com/kalumeyves"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-KalumeYves-blue?style=flat-square&logo=twitter"></a>
+<a href="https://wa.me/243974939405/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-YvesKalume-lime?style=flat-square&logo=WhatsApp"> </a>
+</p>
