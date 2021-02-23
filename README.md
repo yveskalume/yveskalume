@@ -6,9 +6,7 @@ I'm a software developer based at Lubumbashi, DRC 🇨🇩.
 - Developing for Android since 2019.
 - Keenly interested in Kotlin ecosystem.
 
-![Yves's github stats](https://github-readme-stats.vercel.app/api?username=yveskalume&show_icons=true&count_private=true&include_all_commits=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yveskalume&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yveskalume)
 
 <!--
 **YvesKalume/yveskalume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
