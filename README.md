@@ -19,3 +19,5 @@ I'm a software developer based at Lubumbashi, DRC 🇨🇩.
 <a href="https://twitter.com/kalumeyves"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-KalumeYves-blue?style=flat-square&logo=twitter"></a>
 <a href="https://wa.me/243974939405/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-YvesKalume-lime?style=flat-square&logo=WhatsApp"> </a>
 </p>
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yveskalume&theme=github)
