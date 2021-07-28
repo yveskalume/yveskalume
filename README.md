@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I'm a software developer based at Lubumbashi, DRC 🇨🇩.
+I'm 20y software developer based at Lubumbashi, DRC 🇨🇩.
 
 ## Some more background
 - Developing for Android since 2019.
