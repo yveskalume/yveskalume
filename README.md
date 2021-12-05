@@ -2,6 +2,10 @@
 
 I'm 20y software developer based at Lubumbashi, DRC 🇨🇩.
 
+I spend half my time trying to become a better developer and publishing stuff on the internet. 
+
+The other half is a little hard to explain.
+
 ## Some more background
 - Developing for Android since 2019.
 - Keenly interested in Kotlin ecosystem.
