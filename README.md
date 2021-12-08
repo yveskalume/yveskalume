@@ -11,7 +11,7 @@ The other half is a little hard to explain.
 - Keenly interested in Kotlin ecosystem.
 
 ## 📊 Github stats
-[![Yves Kalume's GitHub stats](https://github-readme-stats.vercel.app/api?username=yveskalume&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/yveskalume) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yveskalume&layout=default&theme=algolia&hide=javascript,html,css)](https://github.com/yveskalume)
+[![Yves Kalume's GitHub stats](https://github-readme-stats.vercel.app/api?username=yveskalume&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/yveskalume) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yveskalume&layout=default&theme=algolia)](https://github.com/yveskalume)
 
 <!--
 **YvesKalume/yveskalume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
