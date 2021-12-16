@@ -11,7 +11,9 @@ The other half is a little hard to explain.
 - Keenly interested in Kotlin ecosystem.
 
 ## 📊 Github stats
-[![Yves Kalume's GitHub stats](https://github-readme-stats.vercel.app/api?username=yveskalume&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/yveskalume) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yveskalume&layout=default&theme=algolia)](https://github.com/yveskalume)
+[![Yves Kalume's GitHub stats](https://github-readme-stats.vercel.app/api?username=yveskalume&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/yveskalume) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yveskalume&layout=compact&theme=algolia)](https://github.com/yveskalume)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yveskalume&theme=github)
 
 <!--
 **YvesKalume/yveskalume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,5 +25,3 @@ The other half is a little hard to explain.
 <a href="https://twitter.com/kalumeyves"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-KalumeYves-blue?style=flat-square&logo=twitter"></a>
 <a href="https://wa.me/243974939405/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-YvesKalume-lime?style=flat-square&logo=WhatsApp"> </a>
 </p>
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yveskalume&theme=github)
