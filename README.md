@@ -23,5 +23,4 @@ The other half is a little hard to explain.
 <p align="center">
 <a href="https://www.linkedin.com/in/yves-kalume-b83a4b17a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YvesKalume-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/kalumeyves"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-KalumeYves-blue?style=flat-square&logo=twitter"></a>
-<a href="https://wa.me/243974939405/"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-YvesKalume-lime?style=flat-square&logo=WhatsApp"> </a>
 </p>
