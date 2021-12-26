@@ -21,6 +21,6 @@ The other half is a little hard to explain.
 <h3> 🤝🏻 Hangout with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yves-kalume-b83a4b17a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YvesKalume-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/yveskalume/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YvesKalume-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/kalumeyves"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-KalumeYves-blue?style=flat-square&logo=twitter"></a>
 </p>
