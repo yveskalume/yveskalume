@@ -1,14 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+### Hi ! 👋 I'm Yves <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
 
-I'm 20y software developer based at Lubumbashi, DRC 🇨🇩.
-
-I spend half my time trying to become a better developer and publishing stuff on the internet. 
-
-The other half is a little hard to explain.
-
-## Some more background
-- Developing for Android since 2019.
-- Keenly interested in Kotlin ecosystem.
+Want to know more : [peerlist.io](https://peerlist.io/kalumeyves)
 
 ## 📊 Github stats
 
