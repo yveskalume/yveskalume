@@ -1,4 +1,7 @@
 ### Hi ! 👋 I'm Yves <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
+Passionate Android Developer since 2019, Kotlin enthusiast trying to build something great and learn everyday.
+
+Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/) & [GDSC Esisalama](https://gdsc.community.dev/higher-school-of-computer-science-salama/)
 
 Want to know more : [peerlist.io](https://peerlist.io/kalumeyves)
 
