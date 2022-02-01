@@ -3,7 +3,12 @@ Passionate Android Developer since 2019, Kotlin enthusiast trying to build somet
 
 Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/) & [GDSC Esisalama](https://gdsc.community.dev/higher-school-of-computer-science-salama/)
 
-Want to know more : [peerlist.io](https://peerlist.io/kalumeyves)
+To get started:
+
+- I’m currently working on [EventCademy](https://github.com/YvesKalume/eventcademy) & creating content on [Devscast](https://devscast.tech)
+- I’m currently learning Test Drivent Development & Jetpack compose
+- I’m looking to collaborate on Android & educative projects
+- Want to know more : [peerlist.io](https://peerlist.io/kalumeyves)
 
 ## 📊 Github stats
 
