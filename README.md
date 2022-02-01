@@ -10,6 +10,13 @@ To get started:
 - I’m looking to collaborate on Android & educative projects
 - Want to know more : [peerlist.io](https://peerlist.io/kalumeyves)
 
+<h3> 🤝🏻 Hangout with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/yveskalume/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YvesKalume-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/kalumeyves"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-KalumeYves-blue?style=flat-square&logo=twitter"></a>
+</p>
+
 ## 📊 Github stats
 
 [![Yves Kalume's GitHub stats](https://github-readme-stats.vercel.app/api?username=yveskalume&theme=algolia&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/yveskalume)
@@ -22,9 +29,3 @@ To get started:
 <!--
 **YvesKalume/yveskalume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h3> 🤝🏻 Hangout with Me </h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/yveskalume/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YvesKalume-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/kalumeyves"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-KalumeYves-blue?style=flat-square&logo=twitter"></a>
-</p>
