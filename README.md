@@ -5,7 +5,7 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 
 To get started:
 
-- I’m currently working on [EventCademy](https://github.com/YvesKalume/eventcademy) & creating content on [Devscast](https://devscast.tech)
+- I’m currently working as Android Developer
 - I’m currently learning Test Drivent Development & Jetpack compose
 - I’m looking to collaborate on Android & educative projects
 - Want to know more : [peerlist.io](https://peerlist.io/kalumeyves)
