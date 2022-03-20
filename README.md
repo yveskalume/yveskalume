@@ -22,6 +22,11 @@ To get started:
 <details>
 <summary>🇫🇷 Latest French blog content</summary>
 <!-- BLOG-FR:START -->
+- [5 conseils pour penser comme un programmeur](https://devscast.tech/posts/5-conseils-pour-penser-comme-un-programmeur-24)
+- [Devenez GitHub Campus Expert, les candidatures pour février 2022 sont ouvertes !](https://devscast.tech/posts/github-campus-expert-candidatures-2022-23)
+- [Devenir développeur : 3 conseils pour éviter l&#39;enfer des tutoriels](https://devscast.tech/posts/devenir-developpeur-eviter-enfer-des-tutoriels-22)
+- [3 attitudes qui vous pousseront à abandonner votre prochain projet](https://devscast.tech/posts/3-attitudes-qui-pousseront-a-abandonner-un-projet-20)
+- [l&#39;Impact de la documentation sur un logiciel](https://devscast.tech/posts/impact-documentation-sur-un-logiciel-19)
 <!-- BLOG-FR:END -->
 </details>
 
