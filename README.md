@@ -17,6 +17,16 @@ To get started:
 <a href="https://twitter.com/kalumeyves"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-KalumeYves-blue?style=flat-square&logo=twitter"></a>
 </p>
 
+## Blogposts
+<img align="center" alt="FR" width=40" src="https://img1.freepng.fr/20180707/oxw/kisspng-flag-of-france-tricolour-maritime-flag-monument-au-flag-of-france-5b413e4db5dbd7.9496825915310024457449.jpg" />
+
+<!-- BLOG-POST-LIST-FR:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<img align="center" alt="En" width="40" src="https://img1.freepng.fr/20180331/lrq/kisspng-flag-of-england-flag-of-england-flag-of-the-united-england-5abfe6fda47922.8354732315225259496737.jpg" />
+<!-- BLOG-POST-LIST-EN:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## 📊 Github stats
 
 [![Yves Kalume's GitHub stats](https://github-readme-stats.vercel.app/api?username=yveskalume&theme=algolia&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/yveskalume)
