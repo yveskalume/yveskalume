@@ -1,8 +1,9 @@
 ### Hi ! 👋 I'm Yves <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
 
-<img align="right" alt="GIF" src="./openday.jpeg" width="500" height="320" />
+<img align="right" alt="GIF" src="./openday.jpeg" width="500"/>
 
 <br>
+
 <p align="center">
 	<a href="https://twitter.com/kalumeyves"><img src="https://img.shields.io/twitter/follow/KalumeYves?label=@KalumeYves&style=social" alt="Twitter"></a>  
 	<a href="https://www.linkedin.com/in/yveskalume"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>	
