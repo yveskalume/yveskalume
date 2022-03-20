@@ -2,6 +2,12 @@
 
 <img align="right" alt="GIF" src="./openday.jpeg" width="500" height="320" />
 
+<br>
+<p align="center">
+	<a href="https://twitter.com/kalumeyves"><img src="https://img.shields.io/twitter/follow/KalumeYves?label=@KalumeYves&style=social" alt="Twitter"></a>  
+	<a href="https://www.linkedin.com/in/yveskalume"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>	
+</p>
+
 Passionate Android Developer since 2019, Kotlin enthusiast trying to build something great and learn everyday.
 
 Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/) & [GDSC Esisalama](https://gdsc.community.dev/higher-school-of-computer-science-salama/)
