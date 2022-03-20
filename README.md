@@ -3,10 +3,10 @@ Passionate Android Developer since 2019, Kotlin enthusiast trying to build somet
 
 Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/) & [GDSC Esisalama](https://gdsc.community.dev/higher-school-of-computer-science-salama/)
 
-To get started:
+<h3> To get started: </h3>
 
 - I’m currently working as Android Developer
-- I’m currently learning Test Drivent Development & Jetpack compose
+- I’m currently learning Test Drivent Development
 - I’m looking to collaborate on Android & educative projects
 - Want to know more : [peerlist.io](https://peerlist.io/kalumeyves)
 
@@ -17,7 +17,7 @@ To get started:
 <a href="https://twitter.com/kalumeyves"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-KalumeYves-blue?style=flat-square&logo=twitter"></a>
 </p>
 
-## Blogposts
+<h3> 📙 Blogposts </h3>
 
 <details>
 <summary>🇫🇷 Latest French blog content</summary>
@@ -40,15 +40,6 @@ To get started:
 - [Dependency Inversion Principle &lpar;DIP&rpar;, What &amp; How ?](https://kalume.hashnode.dev/dependency-inversion-principle-dip-what-and-how)
 <!-- BLOG-EN:END -->
 </details>
-
-## 📊 Github stats
-
-[![Yves Kalume's GitHub stats](https://github-readme-stats.vercel.app/api?username=yveskalume&theme=algolia&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/yveskalume)
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YvesKalume&theme=algolia&hide_border=true" alt="AkshayAshokCode"/>
-
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=yveskalume&theme=algolia&bg_color=0d1117&area_color=1f6fea&line=58a6ff&point=38d252&color=fefefe&hide_border=true)
 
 <!--
 **YvesKalume/yveskalume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
