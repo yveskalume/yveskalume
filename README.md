@@ -21,6 +21,7 @@ To get started:
 
 <details>
 <summary>🇫🇷 Latest French blog content</summary>
+
 <!-- BLOG-FR:START -->
 - [5 conseils pour penser comme un programmeur](https://devscast.tech/posts/5-conseils-pour-penser-comme-un-programmeur-24)
 - [Devenez GitHub Campus Expert, les candidatures pour février 2022 sont ouvertes !](https://devscast.tech/posts/github-campus-expert-candidatures-2022-23)
