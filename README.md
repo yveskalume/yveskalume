@@ -32,6 +32,7 @@ To get started:
 
 <details>
 <summary>🏴󠁧󠁢󠁥󠁮󠁧󠁿 Latest English blog content</summary>
+
 <!-- BLOG-EN:START -->
 - [3 attitudes that will make you abandon your next project](https://kalume.hashnode.dev/3-attitudes-that-will-make-you-abandon-your-next-project)
 - [Architecture your android application with MvRx](https://kalume.hashnode.dev/architecture-your-android-application-with-mvrx)
