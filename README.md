@@ -45,7 +45,6 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 <summary>🏴󠁧󠁢󠁥󠁮󠁧󠁿 Latest English blog content</summary>
 
 <!-- BLOG-EN:START -->
-- [Jetpack compose navigation with custom  NavType](https://kalume.hashnode.dev/jetpack-compose-navigation-with-custom-navtype)
 - [3 attitudes that will make you abandon your next project](https://kalume.hashnode.dev/3-attitudes-that-will-make-you-abandon-your-next-project)
 - [Architecture your android application with MvRx](https://kalume.hashnode.dev/architecture-your-android-application-with-mvrx)
 - [Dependency Inversion Principle &lpar;DIP&rpar;, What &amp; How ?](https://kalume.hashnode.dev/dependency-inversion-principle-dip-what-and-how)
