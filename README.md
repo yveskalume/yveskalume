@@ -33,7 +33,7 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 <summary>🇫🇷 Latest French blog content</summary>
 
 <!-- BLOG-FR:START -->
-- [DDD avec Symfony : Comment configurer le mapping xml de doctrine](https://devscast.tech/posts/ddd-avec-symfony-comment-configurer-mapping-xml-doctrine-26)
+- [DDD avec Symfony : Comment configurer le mapping XML de Doctrine](https://devscast.tech/posts/ddd-avec-symfony-comment-configurer-mapping-xml-doctrine-26)
 - [Les réponses aux questions de ceux qui veulent apprendre la programmation](https://devscast.tech/posts/les-reponses-aux-questions-apprendre-la-programmation-25)
 - [5 conseils pour penser comme un programmeur](https://devscast.tech/posts/5-conseils-pour-penser-comme-un-programmeur-24)
 - [Devenez GitHub Campus Expert, les candidatures pour février 2022 sont ouvertes !](https://devscast.tech/posts/github-campus-expert-candidatures-2022-23)
