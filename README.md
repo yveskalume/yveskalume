@@ -15,7 +15,7 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 
 <h3> To get started: </h3>
 
-- I’m currently working as Android Developer
+- I’m currently working on [BeServed](https://play.google.com/store/apps/details?id=org.zxconnect.android.beserve)
 - I’m currently learning Test Drivent Development
 - I’m looking to collaborate on Android & educative projects
 - Want to know more : [peerlist.io](https://peerlist.io/kalumeyves)
