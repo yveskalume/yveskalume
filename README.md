@@ -1,13 +1,6 @@
 ### Hi ! 👋 I'm Yves <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
 
-<img align="right" alt="GIF" src="./openday.jpeg" width="500"/>
-
-<br>
-
-<p align="center">
-	<a href="https://twitter.com/kalumeyves"><img src="https://img.shields.io/twitter/follow/KalumeYves?label=@KalumeYves&style=social" alt="Twitter"></a>  
-	<a href="https://www.linkedin.com/in/yveskalume"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>	
-</p>
+[![Twitter Badge](https://img.shields.io/badge/-@kalumeyves-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kalumeyves)](https://twitter.com/kalumeyves) [![Linkedin Badge](https://img.shields.io/badge/-yveskalume-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yveskalume)](https://www.linkedin.com/in/yveskalume) [![Medium Badge](https://img.shields.io/badge/-@yveskalume-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yveskalume/)](https://medium.com/@yveskalume/)
 
 Passionate Android Developer since 2019, Kotlin enthusiast trying to build something great and learn everyday.
 
@@ -15,17 +8,19 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 
 <h3> To get started: </h3>
 
-- I’m currently working on [BeServed](https://play.google.com/store/apps/details?id=org.zxconnect.android.beserve)
+- 😄 Pronouns: He/His
+- 🏄‍ I love developer communities.
+- 😄 I usually take part in hackathons as a #Participant and a #Organiser.
+- 🌱 Trying to get into public speaking. I organise workshops to help learners grow.
+- I’m currently working on [BeServed](https://play.google.com/store/apps/details?id=org.zxconnect.android.beserve) and creating content at [Devscast](devscast.tech/posts)
 - I’m currently learning Test Drivent Development
 - I’m looking to collaborate on Android & educative projects
-- Want to know more : [peerlist.io](https://peerlist.io/kalumeyves)
 
-<h3> 🤝🏻 Hangout with Me </h3>
+<h3> 👋🏾 Say Hello! </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/yveskalume/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YvesKalume-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/kalumeyves"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-KalumeYves-blue?style=flat-square&logo=twitter"></a>
-</p>
+- ⚡ Fun fact: I love food, therefore I love interacting with new people (I believe everyone can share with me a new delicacy!)
+- 💬 Feel free to contact me about #AndroidDev, #Kotlin, Software engineering and Tech communities. Or just about anything that you want to know or discuss, I'm cool!
+
 
 <h3> 📙 Blogposts </h3>
 
