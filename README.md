@@ -26,20 +26,7 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 
 <h3> 📙 Blogposts </h3>
 
-<details>
-<summary>🇫🇷 Latest French blog content</summary>
-
-<!-- BLOG-FR:START -->
-- [Comment devenir un meilleur développeur backend autodidacte ?](https://devscast.tech/posts/comment-devenir-meilleur-developpeur-backend-autodidacte-31)
-- [Comment se débarrasser de la mentalité junior](https://devscast.tech/posts/comment-se-debarraser-mentalite-junior-30)
-- [&quot;Pourquoi Microsoft et comment j&#39;ai atteint mon objectif&quot; : le parcours de Debbie O&#39;Brien](https://devscast.tech/posts/pourquoi-microsoft-mon-objectif-parcours-debbie-obrien-29)
-- [Et si on parlait de l&#39;architecture logicielle ?](https://devscast.tech/posts/et-si-on-parlait-architecture-logicielle-27)
-- [DDD avec Symfony : Comment configurer le mapping XML de Doctrine](https://devscast.tech/posts/ddd-avec-symfony-comment-configurer-mapping-xml-doctrine-26)
-<!-- BLOG-FR:END -->
-</details>
-
-<details>
-<summary>🏴󠁧󠁢󠁥󠁮󠁧󠁿 Latest English blog content</summary>
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 Latest English blog content
 
 <!-- BLOG-EN:START -->
 - [Jetpack compose navigation with custom  NavType](https://kalume.hashnode.dev/jetpack-compose-navigation-with-custom-navtype)
@@ -47,7 +34,6 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 - [Architecture your android application with MvRx](https://kalume.hashnode.dev/architecture-your-android-application-with-mvrx)
 - [Dependency Inversion Principle &lpar;DIP&rpar;, What &amp; How ?](https://kalume.hashnode.dev/dependency-inversion-principle-dip-what-and-how)
 <!-- BLOG-EN:END -->
-</details>
 
 <!--
 **YvesKalume/yveskalume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
