@@ -11,12 +11,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Get fr blogposts from devscast
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://devscast.tech/posts/feed.rss"
-          comment_tag_name: "BLOG-FR"
-
+        
       - name: Get en blogposts from hashnode
         uses: gautamkrishnar/blog-post-workflow@master
         with:
