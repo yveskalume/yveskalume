@@ -1,4 +1,5 @@
-### Hi ! 👋 I'm Yves <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
+### Hi ! 👋 I'm Yves
+<img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
 
 [![Twitter Badge](https://img.shields.io/badge/-@kalumeyves-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kalumeyves)](https://twitter.com/kalumeyves) [![Linkedin Badge](https://img.shields.io/badge/-yveskalume-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yveskalume)](https://www.linkedin.com/in/yveskalume) [![Medium Badge](https://img.shields.io/badge/-@yveskalume-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yveskalume/)](https://medium.com/@yveskalume/)
 
