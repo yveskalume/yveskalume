@@ -19,12 +19,6 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 - I’m currently learning Test Drivent Development
 - I’m looking to collaborate on Android & educative projects
 
-<h3> 👋🏾 Say Hello! </h3>
-
-- ⚡ Fun fact: I love food, therefore I love interacting with new people (I believe everyone can share with me a new delicacy!)
-- 💬 Feel free to contact me about #AndroidDev, #Kotlin, Software engineering and Tech communities. Or just about anything that you want to know or discuss, I'm cool!
-
-
 <h3> 📙 Blogposts </h3>
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Latest English blog content
@@ -35,6 +29,11 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 - [Architecture your android application with MvRx](https://kalume.hashnode.dev/architecture-your-android-application-with-mvrx)
 - [Dependency Inversion Principle &lpar;DIP&rpar;, What &amp; How ?](https://kalume.hashnode.dev/dependency-inversion-principle-dip-what-and-how)
 <!-- BLOG-EN:END -->
+
+<h3> 👋🏾 Say Hello! </h3>
+
+- ⚡ Fun fact: I love food, therefore I love interacting with new people (I believe everyone can share with me a new delicacy!)
+- 💬 Feel free to contact me about #AndroidDev, #Kotlin, Software engineering and Tech communities. Or just about anything that you want to know or discuss, I'm cool!
 
 <!--
 **YvesKalume/yveskalume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
