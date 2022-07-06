@@ -5,7 +5,7 @@
 
 <a href="https://www.buymeacoffee.com/kalumeyves" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-Passionate Android Developer since 2019, Kotlin enthusiast trying to build something great and learn everyday.
+Passionate Software Developer, Kotlin enthusiast trying to build something great and learn everyday.
 
 Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/) & [GDSC Esisalama](https://gdsc.community.dev/higher-school-of-computer-science-salama/)
 
@@ -15,7 +15,6 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 - 🏄‍ I love developer communities.
 - 😄 I usually take part in hackathons as a #Participant and a #Organiser.
 - 🌱 Trying to get into public speaking. I organise workshops to help learners grow.
-- I’m currently working on [BeServed](https://play.google.com/store/apps/details?id=org.zxconnect.android.beserve) and creating content at [Devscast](devscast.tech/posts)
 - I’m currently learning Test Drivent Development
 - I’m looking to collaborate on Android & educative projects
 
