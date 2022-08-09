@@ -25,12 +25,6 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 - [3 attitudes that will make you abandon your next project](https://kalume.hashnode.dev/3-attitudes-that-will-make-you-abandon-your-next-project)
 - [Architecture your android application with MvRx](https://kalume.hashnode.dev/architecture-your-android-application-with-mvrx)
 - [Dependency Inversion Principle &lpar;DIP&rpar;, What &amp; How ?](https://kalume.hashnode.dev/dependency-inversion-principle-dip-what-and-how)
-
-<h3>🎤 My Presentations & Speeches</h3>
-
-- [Flutter & Firebase (Flutter Festival Lubumbashi)](https://docs.google.com/presentation/d/1vR37H_Ok4hjNVJrv30GBNwviOCzEaQkjAhTHDC72yIo/edit?usp=sharing)
-- [La modularisation dans le développement Android (Devfest2021 by GDG Lubumbashi)](https://docs.google.com/presentation/d/1u_Q0bQuL1mOZLop59Cui5tu24xazW32jQUpKm1FJl9I/edit?usp=sharing)
-
 <!-- BLOG-EN:END -->
 
 <h3> 👋🏾 Say Hello! </h3>
