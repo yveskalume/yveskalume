@@ -27,6 +27,11 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 - [Dependency Inversion Principle &lpar;DIP&rpar;, What &amp; How ?](https://kalume.hashnode.dev/dependency-inversion-principle-dip-what-and-how)
 <!-- BLOG-EN:END -->
 
+<h3>🎤 My Presentations & Speeches</h3>
+
+- [Flutter & Firebase (Flutter Festival Lubumbashi)](https://docs.google.com/presentation/d/1vR37H_Ok4hjNVJrv30GBNwviOCzEaQkjAhTHDC72yIo/edit?usp=sharing)
+- [La modularisation dans le développement Android (Devfest2021 by GDG Lubumbashi)](https://docs.google.com/presentation/d/1u_Q0bQuL1mOZLop59Cui5tu24xazW32jQUpKm1FJl9I/edit?usp=sharing)
+
 <h3> 👋🏾 Say Hello! </h3>
 
 - ⚡ Fun fact: I love food, therefore I love interacting with new people (I believe everyone can share with me a new delicacy!)
