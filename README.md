@@ -5,8 +5,6 @@
 Passionate Software Developer, Kotlin enthusiast trying to build something great and learn everyday.
 Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/)
 
-![stats](https://github-readme-stats.vercel.app/api?username=YvesKalume&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
-
 <h3> To get started: </h3>
 
 - 😄 Pronouns: He/His
