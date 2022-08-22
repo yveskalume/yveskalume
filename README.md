@@ -19,6 +19,7 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Latest English blog content
 
 <!-- BLOG-EN:START -->
+- [Use two Firebase instances in your Android App and never test in production](https://kalume.hashnode.dev/use-two-firebase-instances-in-your-android-app-and-never-test-in-production)
 - [Jetpack compose navigation with custom  NavType](https://kalume.hashnode.dev/jetpack-compose-navigation-with-custom-navtype)
 - [3 attitudes that will make you abandon your next project](https://kalume.hashnode.dev/3-attitudes-that-will-make-you-abandon-your-next-project)
 - [Architecture your android application with MvRx](https://kalume.hashnode.dev/architecture-your-android-application-with-mvrx)
