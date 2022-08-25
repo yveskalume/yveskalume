@@ -2,7 +2,9 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@kalumeyves-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kalumeyves)](https://twitter.com/kalumeyves) [![Linkedin Badge](https://img.shields.io/badge/-yveskalume-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yveskalume)](https://www.linkedin.com/in/yveskalume) [![Medium Badge](https://img.shields.io/badge/-@yveskalume-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yveskalume/)](https://medium.com/@yveskalume/)
 
-Passionate Software Developer, Kotlin enthusiast trying to build something great and learn everyday.
+Software Engineer with 3+ years of experience developing Android apps. Well experienced with the Android ecosystem, Kotlin, Jetpack compose and other cutting-edge technologies.
+Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+
 Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/)
 
 <h3> To get started: </h3>
