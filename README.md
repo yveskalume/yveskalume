@@ -13,7 +13,6 @@ Also organizing tech communities such as [GDG Lubumbashi](https://gdg.community.
 - 🏄‍ I love developer communities.
 - 😄 I usually take part in hackathons as a #Participant and a #Organiser.
 - 🌱 Trying to get into public speaking. I organise workshops to help learners grow.
-- I’m currently learning Test Drivent Development
 - I’m looking to collaborate on Android & educative projects
 
 <h3> 📙 Blogposts </h3>
