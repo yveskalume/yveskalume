@@ -4,7 +4,7 @@
 
 Software Engineer with 3+ years of experience developing Android apps. Well experienced with the Android ecosystem, Kotlin, Jetpack compose and other cutting-edge technologies.
 
-Working at [BeServed](https://be-served.com) & Organizing tech communities such as [GDG Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/)
+Mobile Developer at [BeServed](https://be-served.com) & Organizing tech communities such as [GDG Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/)
 
 <h3> To get started: </h3>
 
