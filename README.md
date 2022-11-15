@@ -6,13 +6,10 @@ Software Engineer with 3+ years of experience developing Android apps. Well expe
 
 Mobile Developer at [Zx Connect](https://github.com/zx-connect) & Organizing tech communities such as [GDG Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/)
 
-<h3> To get started: </h3>
+<h3> 👨🏾‍💻 Recents activity </h3>
 
-- 😄 Pronouns: He/His
-- 🏄‍ I love developer communities.
-- 👨🏾‍💻 Contributing to opensource
-- 🌱 Trying to get into public speaking. I organise workshops to help learners grow.
-- I’m looking to collaborate on Android & educative projects
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
 
