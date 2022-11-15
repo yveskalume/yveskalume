@@ -6,7 +6,7 @@ Software Engineer with 3+ years of experience developing Android apps. Well expe
 
 Mobile Developer at [Zx Connect](https://github.com/zx-connect) & Organizing tech communities such as [GDG Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/)
 
-<h3> 👨🏾‍💻 Recents activity </h3>
+<h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#429](https://github.com/android/nowinandroid/issues/429) in [android/nowinandroid](https://github.com/android/nowinandroid)
