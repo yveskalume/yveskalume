@@ -21,6 +21,9 @@ Mobile Developer at [Zx Connect](https://github.com/zx-connect) & Organizing tec
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Latest English blog content
 
 <!-- BLOG-EN:START -->
+- [Use two Firebase instances in your Android App and never test in production](https://yveskalume.medium.com/use-two-firebase-instances-in-your-android-app-and-never-test-in-production-21e4e4459e55?source=rss-1636dbeb3562------2)
+- [Jetpack compose navigation with custom NavType](https://proandroiddev.com/jetpack-compose-navigation-with-custom-navtype-9b44dd8820e?source=rss-1636dbeb3562------2)
+- [Architecture your android application with MvRx](https://proandroiddev.com/architecture-your-android-application-with-mvrx-345ccbf4969c?source=rss-1636dbeb3562------2)
 <!-- BLOG-EN:END -->
 
 <h3>🎤 My Presentations & Speeches</h3>
