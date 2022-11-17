@@ -10,10 +10,10 @@ Mobile Developer at [Zx Connect](https://github.com/zx-connect) & Organizing tec
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#429](https://github.com/android/nowinandroid/issues/429) in [android/nowinandroid](https://github.com/android/nowinandroid)
-2. ❗️ Opened issue [#662](https://github.com/airbnb/mavericks/issues/662) in [airbnb/mavericks](https://github.com/airbnb/mavericks)
-3. 💪 Opened PR [#429](https://github.com/android/nowinandroid/pull/429) in [android/nowinandroid](https://github.com/android/nowinandroid)
-4. 🗣 Commented on [#393](https://github.com/android/nowinandroid/issues/393) in [android/nowinandroid](https://github.com/android/nowinandroid)
-5. ❗️ Opened issue [#2](https://github.com/GenevieveMasioni/artrip-android/issues/2) in [GenevieveMasioni/artrip-android](https://github.com/GenevieveMasioni/artrip-android)
+2. 🗣 Commented on [#429](https://github.com/android/nowinandroid/issues/429) in [android/nowinandroid](https://github.com/android/nowinandroid)
+3. 🗣 Commented on [#429](https://github.com/android/nowinandroid/issues/429) in [android/nowinandroid](https://github.com/android/nowinandroid)
+4. ❗️ Opened issue [#662](https://github.com/airbnb/mavericks/issues/662) in [airbnb/mavericks](https://github.com/airbnb/mavericks)
+5. 💪 Opened PR [#429](https://github.com/android/nowinandroid/pull/429) in [android/nowinandroid](https://github.com/android/nowinandroid)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
