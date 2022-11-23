@@ -9,11 +9,11 @@ Mobile Developer at [Zx Connect](https://github.com/zx-connect) & Organizing tec
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#429](https://github.com/android/nowinandroid/issues/429) in [android/nowinandroid](https://github.com/android/nowinandroid)
-2. 💪 Opened PR [#444](https://github.com/android/nowinandroid/pull/444) in [android/nowinandroid](https://github.com/android/nowinandroid)
-3. ❌ Closed PR [#429](https://github.com/android/nowinandroid/pull/429) in [android/nowinandroid](https://github.com/android/nowinandroid)
-4. 🗣 Commented on [#429](https://github.com/android/nowinandroid/issues/429) in [android/nowinandroid](https://github.com/android/nowinandroid)
-5. 🗣 Commented on [#429](https://github.com/android/nowinandroid/issues/429) in [android/nowinandroid](https://github.com/android/nowinandroid)
+1. 🗣 Commented on [#444](https://github.com/android/nowinandroid/issues/444) in [android/nowinandroid](https://github.com/android/nowinandroid)
+2. 🗣 Commented on [#662](https://github.com/airbnb/mavericks/issues/662) in [airbnb/mavericks](https://github.com/airbnb/mavericks)
+3. 🗣 Commented on [#429](https://github.com/android/nowinandroid/issues/429) in [android/nowinandroid](https://github.com/android/nowinandroid)
+4. 💪 Opened PR [#444](https://github.com/android/nowinandroid/pull/444) in [android/nowinandroid](https://github.com/android/nowinandroid)
+5. ❌ Closed PR [#429](https://github.com/android/nowinandroid/pull/429) in [android/nowinandroid](https://github.com/android/nowinandroid)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
