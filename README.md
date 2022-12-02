@@ -28,6 +28,7 @@ Mobile Developer at [Zx Connect](https://github.com/zx-connect) & Organizing tec
 
 <h3>🎤 My Presentations & Speeches</h3>
 
+- [Modern Android App Architecture](https://docs.google.com/presentation/d/1VFxvNff5d4SY-L5xcbNEOe9krhsKCNIMCl-LPSyKc_8/edit#slide=id.g25bc445820_0_0)
 - [Flutter & Firebase (Flutter Festival Lubumbashi)](https://docs.google.com/presentation/d/1vR37H_Ok4hjNVJrv30GBNwviOCzEaQkjAhTHDC72yIo/edit?usp=sharing)
 - [La modularisation dans le développement Android (Devfest2021 by GDG Lubumbashi)](https://docs.google.com/presentation/d/1u_Q0bQuL1mOZLop59Cui5tu24xazW32jQUpKm1FJl9I/edit?usp=sharing)
 
