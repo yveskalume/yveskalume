@@ -2,9 +2,9 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@kalumeyves-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kalumeyves)](https://twitter.com/kalumeyves) [![Linkedin Badge](https://img.shields.io/badge/-yveskalume-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yveskalume)](https://www.linkedin.com/in/yveskalume) [![Medium Badge](https://img.shields.io/badge/-@yveskalume-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yveskalume/)](https://medium.com/@yveskalume/)
 
-Software Engineer with 3+ years of experience developing Android apps. Well experienced with the Android ecosystem, Kotlin, Jetpack compose and other cutting-edge technologies.
+I'm Yves Kalume, a Software Developper passionate about Mobile Ecosystem (Android in particular),I love making high quality apps,learning and helping other developers upscale their skills. I contribute to open source projects, write technical articles on Android and Kotlin topics but also on Learning methods. 
 
-Mobile Developer at [Zx Connect](https://github.com/zx-connect) & Organizing tech communities such as [GDG Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/)
+I love learning and teaching, so I try to share my knowledge and build tech communities such as [Devscast](http://devscast.tech/), [Google Developer Group Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/), I'm also an Alumni of a [Google Developer Student Clubs](https://gdsc.community.dev/higher-school-of-computer-science-salama/) chapter,etc.
 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
@@ -18,13 +18,18 @@ Mobile Developer at [Zx Connect](https://github.com/zx-connect) & Organizing tec
 
 <h3> 📙 Blogposts </h3>
 
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 Latest English blog content
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 English blogposts
 
-<!-- BLOG-EN:START -->
 - [Use two Firebase instances in your Android App and never test in production](https://yveskalume.medium.com/use-two-firebase-instances-in-your-android-app-and-never-test-in-production-21e4e4459e55?source=rss-1636dbeb3562------2)
 - [Jetpack compose navigation with custom NavType](https://proandroiddev.com/jetpack-compose-navigation-with-custom-navtype-9b44dd8820e?source=rss-1636dbeb3562------2)
+- [Boolean Blindness : Don't represent state with boolean !](https://kalume.hashnode.dev/boolean-blindness-dont-represent-state-with-boolean)
 - [Architecture your android application with MvRx](https://proandroiddev.com/architecture-your-android-application-with-mvrx-345ccbf4969c?source=rss-1636dbeb3562------2)
-<!-- BLOG-EN:END -->
+- [Dependency Inversion Principle (DIP), What & How ?](https://kalume.hashnode.dev/dependency-inversion-principle-dip-what-and-how)
+- [3 attitudes that will make you abandon your next project](https://kalume.hashnode.dev/3-attitudes-that-will-make-you-abandon-your-next-project)
+
+🇫🇷  French blogposts
+
+I also write french blog posts to help people who start learning software developpement. you can find them on [Devscast.tech](https://devscast.tech/posts)
 
 <h3>🎤 My Presentations & Speeches</h3>
 
