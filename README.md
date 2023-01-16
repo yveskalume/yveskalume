@@ -20,6 +20,8 @@ I love learning and teaching, so I try to share my knowledge and build tech comm
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English blogposts
 
+- [Applying Kotlin context receivers](https://medium.com/proandroiddev/applying-kotlin-context-receivers-5f2ad2ec4043)
+- [Jetpack Compose state deconstructed](https://medium.com/proandroiddev/jetpack-compose-state-deconstructed-68c6b957f0be)
 - [Use two Firebase instances in your Android App and never test in production](https://yveskalume.medium.com/use-two-firebase-instances-in-your-android-app-and-never-test-in-production-21e4e4459e55?source=rss-1636dbeb3562------2)
 - [Jetpack compose navigation with custom NavType](https://proandroiddev.com/jetpack-compose-navigation-with-custom-navtype-9b44dd8820e?source=rss-1636dbeb3562------2)
 - [Boolean Blindness : Don't represent state with boolean !](https://kalume.hashnode.dev/boolean-blindness-dont-represent-state-with-boolean)
