@@ -9,9 +9,9 @@ I love learning and teaching, so I try to share my knowledge and build tech comm
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#302](https://github.com/LouisCAD/Splitties/pull/302) in [LouisCAD/Splitties](https://github.com/LouisCAD/Splitties)
-2. ❗️ Closed issue [#662](https://github.com/airbnb/mavericks/issues/662) in [airbnb/mavericks](https://github.com/airbnb/mavericks)
-3. 🗣 Commented on [#444](https://github.com/android/nowinandroid/issues/444) in [android/nowinandroid](https://github.com/android/nowinandroid)
+1. 🗣 Commented on [#20](https://github.com/droidconKE/droidconKE2023Android/issues/20) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+2. 💪 Opened PR [#302](https://github.com/LouisCAD/Splitties/pull/302) in [LouisCAD/Splitties](https://github.com/LouisCAD/Splitties)
+3. ❗️ Closed issue [#662](https://github.com/airbnb/mavericks/issues/662) in [airbnb/mavericks](https://github.com/airbnb/mavericks)
 4. 🗣 Commented on [#444](https://github.com/android/nowinandroid/issues/444) in [android/nowinandroid](https://github.com/android/nowinandroid)
 5. 🗣 Commented on [#444](https://github.com/android/nowinandroid/issues/444) in [android/nowinandroid](https://github.com/android/nowinandroid)
 <!--END_SECTION:activity-->
