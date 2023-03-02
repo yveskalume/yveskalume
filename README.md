@@ -9,11 +9,11 @@ I love learning and teaching, so I try to share my knowledge and build tech comm
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#729](https://github.com/hackclub/dinosaurs/pull/729) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-2. 🗣 Commented on [#20](https://github.com/droidconKE/droidconKE2023Android/issues/20) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
-3. 💪 Opened PR [#302](https://github.com/LouisCAD/Splitties/pull/302) in [LouisCAD/Splitties](https://github.com/LouisCAD/Splitties)
-4. ❗️ Closed issue [#662](https://github.com/airbnb/mavericks/issues/662) in [airbnb/mavericks](https://github.com/airbnb/mavericks)
-5. 🗣 Commented on [#444](https://github.com/android/nowinandroid/issues/444) in [android/nowinandroid](https://github.com/android/nowinandroid)
+1. 💪 Opened PR [#55](https://github.com/droidconKE/droidconKE2023Android/pull/55) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+2. ❗️ Opened issue [#54](https://github.com/droidconKE/droidconKE2023Android/issues/54) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+3. 🗣 Commented on [#38](https://github.com/droidconKE/droidconKE2023Android/issues/38) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+4. 🗣 Commented on [#38](https://github.com/droidconKE/droidconKE2023Android/issues/38) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+5. 💪 Opened PR [#729](https://github.com/hackclub/dinosaurs/pull/729) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
