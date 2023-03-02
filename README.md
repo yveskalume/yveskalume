@@ -35,6 +35,7 @@ I also write french blog posts to help people who start learning software develo
 
 <h3>🎤 My Presentations & Speeches</h3>
 
+- [Traitement des annotations en Kotlin](https://docs.google.com/presentation/d/106qb72v5McBDuuxWvfySARZo5xYOjG2uV4P7rk9DFys/edit?usp=sharing)
 - [Exploring the NOW IN ANDROID app project](https://docs.google.com/presentation/d/1waS1rZMdC81i9ECbQDuKk3wzA0XzV3IRsCN2xDwGXGs/edit?usp=sharing&resourcekey=0-8XeUyacMkNw9THc5Ijtf6g)
 - [Live Session : Premier pas avec Jetpack Compose](https://www.youtube.com/watch?v=OfixcgQwFnw)
 - [Modern Android App Architecture](https://youtu.be/DMjSOPFIpXI)
