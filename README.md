@@ -9,11 +9,11 @@ I love learning and teaching, so I try to share my knowledge and build tech comm
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/droidconKE/droidconKE2023Android/issues/61) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
-2. 🗣 Commented on [#55](https://github.com/droidconKE/droidconKE2023Android/issues/55) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
-3. 💪 Opened PR [#55](https://github.com/droidconKE/droidconKE2023Android/pull/55) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
-4. ❗️ Opened issue [#54](https://github.com/droidconKE/droidconKE2023Android/issues/54) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
-5. 🗣 Commented on [#38](https://github.com/droidconKE/droidconKE2023Android/issues/38) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+1. 💪 Opened PR [#78](https://github.com/droidconKE/droidconKE2023Android/pull/78) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+2. 🗣 Commented on [#17](https://github.com/droidconKE/droidconKE2023Android/issues/17) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+3. 🗣 Commented on [#64](https://github.com/droidconKE/droidconKE2023Android/issues/64) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+4. 🗣 Commented on [#64](https://github.com/droidconKE/droidconKE2023Android/issues/64) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+5. 🗣 Commented on [#17](https://github.com/droidconKE/droidconKE2023Android/issues/17) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
