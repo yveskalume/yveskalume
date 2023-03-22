@@ -9,11 +9,11 @@ I love learning and teaching, so I try to share my knowledge and build tech comm
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#379](https://github.com/kiwicom/orbit-compose/pull/379) in [kiwicom/orbit-compose](https://github.com/kiwicom/orbit-compose)
-2. 💪 Opened PR [#78](https://github.com/droidconKE/droidconKE2023Android/pull/78) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
-3. 🗣 Commented on [#17](https://github.com/droidconKE/droidconKE2023Android/issues/17) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
-4. 🗣 Commented on [#64](https://github.com/droidconKE/droidconKE2023Android/issues/64) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
-5. 🗣 Commented on [#64](https://github.com/droidconKE/droidconKE2023Android/issues/64) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+1. 💪 Opened PR [#381](https://github.com/kiwicom/orbit-compose/pull/381) in [kiwicom/orbit-compose](https://github.com/kiwicom/orbit-compose)
+2. 🗣 Commented on [#348](https://github.com/kiwicom/orbit-compose/issues/348) in [kiwicom/orbit-compose](https://github.com/kiwicom/orbit-compose)
+3. 🗣 Commented on [#38](https://github.com/PatilShreyas/permission-flow-android/issues/38) in [PatilShreyas/permission-flow-android](https://github.com/PatilShreyas/permission-flow-android)
+4. 💪 Opened PR [#379](https://github.com/kiwicom/orbit-compose/pull/379) in [kiwicom/orbit-compose](https://github.com/kiwicom/orbit-compose)
+5. 💪 Opened PR [#78](https://github.com/droidconKE/droidconKE2023Android/pull/78) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
