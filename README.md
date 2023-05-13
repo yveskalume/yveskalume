@@ -2,9 +2,9 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@kalumeyves-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kalumeyves)](https://twitter.com/kalumeyves) [![Linkedin Badge](https://img.shields.io/badge/-yveskalume-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yveskalume)](https://www.linkedin.com/in/yveskalume) [![Medium Badge](https://img.shields.io/badge/-@yveskalume-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yveskalume/)](https://medium.com/@yveskalume/)
 
-I'm Yves Kalume, a Software Developper passionate about Mobile Ecosystem (Android in particular),I love making high quality apps,learning and helping other developers upscale their skills. I contribute to open source projects, write technical articles on Android and Kotlin topics. 
+I'm Yves Kalume, an Android Developer who loves making high quality apps,learning and helping other developers upscale their skills. I contribute to open source projects, write technical articles on Android and Kotlin topics. 
 
-I love learning and teaching, so I try to share my knowledge and build tech communities such as [Devscast](http://devscast.tech/), [Google Developer Group Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/), I'm also an Alumni of a [Google Developer Student Clubs](https://gdsc.community.dev/higher-school-of-computer-science-salama/) chapter,etc.
+I'm also a Google Developer Expert for Android. I love learning and teaching, involving in tech community such as [Devscast](http://devscast.tech/), [Google Developer Group Lubumbashi](https://gdg.community.dev/gdg-lubumbashi/),... is a big part of my life 
 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
