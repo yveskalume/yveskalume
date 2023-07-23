@@ -9,11 +9,11 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.1](https://github.com/2.1) in [yveskalume/gif-app](https://github.com/yveskalume/gif-app)
-2. 🚀 Published release [2.1](https://github.com/2.1) in [yveskalume/gif-app](https://github.com/yveskalume/gif-app)
-3. 💪 Opened PR [#128](https://github.com/droidconKE/droidconKE2023Android/pull/128) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
-4. 💪 Opened PR [#1](https://github.com/dankoji26/marissa-mayer/pull/1) in [dankoji26/marissa-mayer](https://github.com/dankoji26/marissa-mayer)
-5. 🚀 Published release [2.0](https://github.com/2.0) in [yveskalume/gif-app](https://github.com/yveskalume/gif-app)
+1. ❗ Opened issue [#37](https://github.com/Tailus-UI/blocks/issues/37) in [Tailus-UI/blocks](https://github.com/Tailus-UI/blocks)
+2. 🗣 Commented on [#472](https://github.com/kiwicom/orbit-compose/issues/472#issuecomment-1623259235) in [kiwicom/orbit-compose](https://github.com/kiwicom/orbit-compose)
+3. 🗣 Commented on [#628](https://github.com/mastodon/mastodon-android/issues/628#issuecomment-1620631426) in [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android)
+4. 🚀 Published release [2.1](https://github.com/yveskalume/gif-app/releases/tag/2.1) in [yveskalume/gif-app](https://github.com/yveskalume/gif-app)
+5. 🚀 Published release [2.1](https://github.com/yveskalume/gif-app/releases/tag/2.1) in [yveskalume/gif-app](https://github.com/yveskalume/gif-app)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
