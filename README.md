@@ -18,7 +18,7 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 
 <h3> 📙 Blogposts </h3>
 
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 English blogposts
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 blogposts
 
 - [Understanding memory leak](https://yveskalume.dev/understanding-memory-leak)
 - [Inspect Ktor’s network traffic on Android with Chucker](https://yveskalume.dev/inspect-ktors-network-traffic-on-android-with-chucker-ee2b0e52647a)
@@ -33,6 +33,7 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 
 <h3>🎤 My Presentations & Speeches</h3>
 
+- [Demystifying Memory Leaks in Android](https://youtu.be/HyoHsUkAwA0)
 - [L’essentiel de Git et Github en max 20 minutes](https://speakerdeck.com/yveskalume/lessentiel-de-git-et-github-en-max-20-minutes)
 - [Traitement des annotations en Kotlin](https://docs.google.com/presentation/d/106qb72v5McBDuuxWvfySARZo5xYOjG2uV4P7rk9DFys/edit?usp=sharing)
 - [Exploring the NOW IN ANDROID app project](https://docs.google.com/presentation/d/1waS1rZMdC81i9ECbQDuKk3wzA0XzV3IRsCN2xDwGXGs/edit?usp=sharing&resourcekey=0-8XeUyacMkNw9THc5Ijtf6g)
