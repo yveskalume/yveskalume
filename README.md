@@ -9,11 +9,11 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#37](https://github.com/Tailus-UI/blocks/issues/37) in [Tailus-UI/blocks](https://github.com/Tailus-UI/blocks)
-2. 🗣 Commented on [#472](https://github.com/kiwicom/orbit-compose/issues/472#issuecomment-1623259235) in [kiwicom/orbit-compose](https://github.com/kiwicom/orbit-compose)
-3. 🗣 Commented on [#628](https://github.com/mastodon/mastodon-android/issues/628#issuecomment-1620631426) in [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android)
-4. 🚀 Published release [2.1](https://github.com/yveskalume/gif-app/releases/tag/2.1) in [yveskalume/gif-app](https://github.com/yveskalume/gif-app)
-5. 🚀 Published release [2.1](https://github.com/yveskalume/gif-app/releases/tag/2.1) in [yveskalume/gif-app](https://github.com/yveskalume/gif-app)
+1. 💪 Opened PR [#186](https://github.com/droidconKE/droidconKE2023Android/pull/186) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+2. 🗣 Commented on [#152](https://github.com/droidconKE/droidconKE2023Android/issues/152#issuecomment-1731245423) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+3. 🗣 Commented on [#316](https://github.com/firebase/snippets-android/issues/316#issuecomment-1725890523) in [firebase/snippets-android](https://github.com/firebase/snippets-android)
+4. 🚀 Published release [v1.3](https://github.com/yveskalume/EventCademy/releases/tag/v1.2) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+5. 🎉 Merged PR [#4](https://github.com/yveskalume/EventCademy/pull/4) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
