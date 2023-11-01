@@ -9,11 +9,11 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.4](https://github.com/yveskalume/EventCademy/releases/tag/v1.4) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
-2. 🎉 Merged PR [#5](https://github.com/yveskalume/EventCademy/pull/5) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
-3. 💪 Opened PR [#5](https://github.com/yveskalume/EventCademy/pull/5) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
-4. 💪 Opened PR [#73762](https://github.com/firstcontributions/first-contributions/pull/73762) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-5. 🗣 Commented on [#186](https://github.com/droidconKE/droidconKE2023Android/pull/186#issuecomment-1733523219) in [droidconKE/droidconKE2023Android](https://github.com/droidconKE/droidconKE2023Android)
+1. ❗ Opened issue [#8](https://github.com/yveskalume/EventCademy/issues/8) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+2. ❗ Opened issue [#7](https://github.com/yveskalume/EventCademy/issues/7) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+3. 🗣 Commented on [#54](https://github.com/droidconKE/droidconKeKotlin/issues/54#issuecomment-1774471751) in [droidconKE/droidconKeKotlin](https://github.com/droidconKE/droidconKeKotlin)
+4. 🗣 Commented on [#233](https://github.com/droidconKE/droidconKeKotlin/issues/233#issuecomment-1774469666) in [droidconKE/droidconKeKotlin](https://github.com/droidconKE/droidconKeKotlin)
+5. 🚀 Published release [v1.4](https://github.com/yveskalume/EventCademy/releases/tag/v1.4) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
