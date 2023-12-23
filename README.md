@@ -9,11 +9,11 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5](https://github.com/yveskalume/EventCademy/releases/tag/v1.5) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
-2. 🔒 Closed issue [#7](https://github.com/yveskalume/EventCademy/issues/7) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
-3. 🎉 Merged PR [#11](https://github.com/yveskalume/EventCademy/pull/11) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
-4. 💪 Opened PR [#11](https://github.com/yveskalume/EventCademy/pull/11) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
-5. 🎉 Merged PR [#10](https://github.com/yveskalume/EventCademy/pull/10) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+1. 🎉 Merged PR [#17](https://github.com/yveskalume/EventCademy/pull/17) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+2. 💪 Opened PR [#17](https://github.com/yveskalume/EventCademy/pull/17) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+3. 🚀 Published release [v1.3.0](https://github.com/devscast/validable/releases/tag/1.3.0) in [devscast/validable](https://github.com/devscast/validable)
+4. 🚀 Published release [v1.4.0](https://github.com/devscast/validable/releases/tag/1.4.0) in [devscast/validable](https://github.com/devscast/validable)
+5. 🚀 Published release [v1.3.0](https://github.com/devscast/validable/releases/tag/1.3.0) in [devscast/validable](https://github.com/devscast/validable)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
