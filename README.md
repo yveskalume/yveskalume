@@ -9,11 +9,11 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/yveskalume/EventCademy/pull/19) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
-2. 💪 Opened PR [#19](https://github.com/yveskalume/EventCademy/pull/19) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
-3. 🗣 Commented on [#26](https://github.com/google/generative-ai-android/issues/26#issuecomment-1868507142) in [google/generative-ai-android](https://github.com/google/generative-ai-android)
-4. 🎉 Merged PR [#17](https://github.com/yveskalume/EventCademy/pull/17) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
-5. 💪 Opened PR [#17](https://github.com/yveskalume/EventCademy/pull/17) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+1. 🗣 Commented on [#4](https://github.com/yveskalume/compose-qrpainter/pull/4#issuecomment-1958759436) in [yveskalume/compose-qrpainter](https://github.com/yveskalume/compose-qrpainter)
+2. 🗣 Commented on [#4](https://github.com/yveskalume/compose-qrpainter/pull/4#issuecomment-1956029318) in [yveskalume/compose-qrpainter](https://github.com/yveskalume/compose-qrpainter)
+3. 🗣 Commented on [#3](https://github.com/yveskalume/compose-qrpainter/pull/3#issuecomment-1956028786) in [yveskalume/compose-qrpainter](https://github.com/yveskalume/compose-qrpainter)
+4. 🗣 Commented on [#3](https://github.com/yveskalume/compose-qrpainter/pull/3#issuecomment-1956014924) in [yveskalume/compose-qrpainter](https://github.com/yveskalume/compose-qrpainter)
+5. 🗣 Commented on [#5](https://github.com/yveskalume/compose-qrpainter/pull/5#issuecomment-1956014245) in [yveskalume/compose-qrpainter](https://github.com/yveskalume/compose-qrpainter)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
