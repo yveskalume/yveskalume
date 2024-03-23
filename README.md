@@ -9,11 +9,11 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/yveskalume/compose-qrpainter/pull/4#issuecomment-1958759436) in [yveskalume/compose-qrpainter](https://github.com/yveskalume/compose-qrpainter)
-2. 🗣 Commented on [#4](https://github.com/yveskalume/compose-qrpainter/pull/4#issuecomment-1956029318) in [yveskalume/compose-qrpainter](https://github.com/yveskalume/compose-qrpainter)
-3. 🗣 Commented on [#3](https://github.com/yveskalume/compose-qrpainter/pull/3#issuecomment-1956028786) in [yveskalume/compose-qrpainter](https://github.com/yveskalume/compose-qrpainter)
-4. 🗣 Commented on [#3](https://github.com/yveskalume/compose-qrpainter/pull/3#issuecomment-1956014924) in [yveskalume/compose-qrpainter](https://github.com/yveskalume/compose-qrpainter)
-5. 🗣 Commented on [#5](https://github.com/yveskalume/compose-qrpainter/pull/5#issuecomment-1956014245) in [yveskalume/compose-qrpainter](https://github.com/yveskalume/compose-qrpainter)
+1. 🎉 Merged PR [#25](https://github.com/yveskalume/EventCademy/pull/25) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+2. 💪 Opened PR [#25](https://github.com/yveskalume/EventCademy/pull/25) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+3. ❌ Closed PR [#20](https://github.com/yveskalume/EventCademy/pull/20) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+4. ❌ Closed PR [#21](https://github.com/yveskalume/EventCademy/pull/21) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+5. ❌ Closed PR [#22](https://github.com/yveskalume/EventCademy/pull/22) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
