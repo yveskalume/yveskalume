@@ -11,11 +11,11 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#194](https://github.com/AbedElazizShe/LightCompressor/pull/194) in [AbedElazizShe/LightCompressor](https://github.com/AbedElazizShe/LightCompressor)
-2. ❗ Opened issue [#193](https://github.com/AbedElazizShe/LightCompressor/issues/193) in [AbedElazizShe/LightCompressor](https://github.com/AbedElazizShe/LightCompressor)
-3. 🎉 Merged PR [#1](https://github.com/yveskalume/open-material/pull/1) in [yveskalume/open-material](https://github.com/yveskalume/open-material)
-4. 💪 Opened PR [#1](https://github.com/yveskalume/open-material/pull/1) in [yveskalume/open-material](https://github.com/yveskalume/open-material)
-5. 🎉 Merged PR [#25](https://github.com/yveskalume/EventCademy/pull/25) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+1. 💪 Opened PR [#25](https://github.com/devscast/validable/pull/25) in [devscast/validable](https://github.com/devscast/validable)
+2. 🎉 Merged PR [#15](https://github.com/devscast/validable/pull/15) in [devscast/validable](https://github.com/devscast/validable)
+3. 🎉 Merged PR [#20](https://github.com/devscast/validable/pull/20) in [devscast/validable](https://github.com/devscast/validable)
+4. 🗣 Commented on [#20](https://github.com/devscast/validable/pull/20#issuecomment-2068142846) in [devscast/validable](https://github.com/devscast/validable)
+5. 🗣 Commented on [#20](https://github.com/devscast/validable/pull/20#issuecomment-2068141157) in [devscast/validable](https://github.com/devscast/validable)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
