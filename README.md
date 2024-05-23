@@ -11,11 +11,11 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/devscast/validable/pull/25) in [devscast/validable](https://github.com/devscast/validable)
-2. 🎉 Merged PR [#15](https://github.com/devscast/validable/pull/15) in [devscast/validable](https://github.com/devscast/validable)
-3. 🎉 Merged PR [#20](https://github.com/devscast/validable/pull/20) in [devscast/validable](https://github.com/devscast/validable)
-4. 🗣 Commented on [#20](https://github.com/devscast/validable/pull/20#issuecomment-2068142846) in [devscast/validable](https://github.com/devscast/validable)
-5. 🗣 Commented on [#20](https://github.com/devscast/validable/pull/20#issuecomment-2068141157) in [devscast/validable](https://github.com/devscast/validable)
+1. 🎉 Merged PR [#36](https://github.com/devscast/validable/pull/36) in [devscast/validable](https://github.com/devscast/validable)
+2. 🔒 Closed issue [#28](https://github.com/devscast/validable/issues/28) in [devscast/validable](https://github.com/devscast/validable)
+3. 💪 Opened PR [#36](https://github.com/devscast/validable/pull/36) in [devscast/validable](https://github.com/devscast/validable)
+4. 🔒 Closed issue [#32](https://github.com/devscast/validable/issues/32) in [devscast/validable](https://github.com/devscast/validable)
+5. 🎉 Merged PR [#33](https://github.com/devscast/validable/pull/33) in [devscast/validable](https://github.com/devscast/validable)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
