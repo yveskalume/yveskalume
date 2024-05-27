@@ -35,6 +35,7 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 
 <h3>🎤 My Presentations & Speeches</h3>
 
+- [Designin scalable Compose APIs](https://speakerdeck.com/yveskalume/designin-scalable-compose-apis)
 - [Demystifying Memory Leaks in Android](https://youtu.be/HyoHsUkAwA0)
 - [L’essentiel de Git et Github en max 20 minutes](https://speakerdeck.com/yveskalume/lessentiel-de-git-et-github-en-max-20-minutes)
 - [Traitement des annotations en Kotlin](https://docs.google.com/presentation/d/106qb72v5McBDuuxWvfySARZo5xYOjG2uV4P7rk9DFys/edit?usp=sharing)
