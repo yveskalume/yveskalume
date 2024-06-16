@@ -6,8 +6,6 @@ I'm Android Developer also Google Developer Expert for Android,I love making hig
 
 I am a strong believer in continuous learning, and I am always looking for ways to improve my skills and knowledge. I am a regular contributor to the Android community though content creation,public speaking,open source, and I am always happy to help others learn about Android development.
 
-<a href="https://gitroll.io/profile/uV2A304mNW9NASwQLQ2LOW23ie1w2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uV2A304mNW9NASwQLQ2LOW23ie1w2" alt="GitRoll Profile Badge"/></a>
-
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
@@ -22,6 +20,7 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 blogposts
 
+- [Designin scalable compose APIs](https://speakerdeck.com/yveskalume/designin-scalable-compose-apis)
 - [Understanding memory leak](https://yveskalume.dev/understanding-memory-leak)
 - [Inspect Ktor’s network traffic on Android with Chucker](https://yveskalume.dev/inspect-ktors-network-traffic-on-android-with-chucker-ee2b0e52647a)
 - [Applying Kotlin context receivers](https://medium.com/proandroiddev/applying-kotlin-context-receivers-5f2ad2ec4043)
