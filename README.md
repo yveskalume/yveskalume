@@ -9,11 +9,11 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/devscast/validable/pull/36) in [devscast/validable](https://github.com/devscast/validable)
-2. 🔒 Closed issue [#28](https://github.com/devscast/validable/issues/28) in [devscast/validable](https://github.com/devscast/validable)
-3. 💪 Opened PR [#36](https://github.com/devscast/validable/pull/36) in [devscast/validable](https://github.com/devscast/validable)
-4. 🔒 Closed issue [#32](https://github.com/devscast/validable/issues/32) in [devscast/validable](https://github.com/devscast/validable)
-5. 🎉 Merged PR [#33](https://github.com/devscast/validable/pull/33) in [devscast/validable](https://github.com/devscast/validable)
+1. 💪 Opened PR [#4745](https://github.com/wikimedia/apps-android-wikipedia/pull/4745) in [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
+2. 🚀 Published release [2.0.0-alpha01](https://github.com/devscast/validable/releases/tag/2.0.0-alpha01) in [devscast/validable](https://github.com/devscast/validable)
+3. 🔒 Closed issue [#1](https://github.com/ljoboy/accd/issues/1) in [ljoboy/accd](https://github.com/ljoboy/accd)
+4. ❗ Opened issue [#1](https://github.com/ljoboy/accd/issues/1) in [ljoboy/accd](https://github.com/ljoboy/accd)
+5. 🎉 Merged PR [#45](https://github.com/devscast/validable/pull/45) in [devscast/validable](https://github.com/devscast/validable)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
