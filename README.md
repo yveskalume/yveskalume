@@ -9,11 +9,11 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4745](https://github.com/wikimedia/apps-android-wikipedia/pull/4745) in [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
-2. 🚀 Published release [2.0.0-alpha01](https://github.com/devscast/validable/releases/tag/2.0.0-alpha01) in [devscast/validable](https://github.com/devscast/validable)
-3. 🔒 Closed issue [#1](https://github.com/ljoboy/accd/issues/1) in [ljoboy/accd](https://github.com/ljoboy/accd)
-4. ❗ Opened issue [#1](https://github.com/ljoboy/accd/issues/1) in [ljoboy/accd](https://github.com/ljoboy/accd)
-5. 🎉 Merged PR [#45](https://github.com/devscast/validable/pull/45) in [devscast/validable](https://github.com/devscast/validable)
+1. 🚀 Published release [v1.6](https://github.com/yveskalume/EventCademy/releases/tag/v1.6) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+2. 🚀 Published release [v1.6](https://github.com/yveskalume/EventCademy/releases/tag/v1.6) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+3. ❗ Opened issue [#52](https://github.com/devscast/validable/issues/52) in [devscast/validable](https://github.com/devscast/validable)
+4. ❗ Opened issue [#51](https://github.com/devscast/validable/issues/51) in [devscast/validable](https://github.com/devscast/validable)
+5. 🎉 Merged PR [#39](https://github.com/yveskalume/EventCademy/pull/39) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
