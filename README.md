@@ -9,11 +9,11 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.6](https://github.com/yveskalume/EventCademy/releases/tag/v1.6) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
-2. 🚀 Published release [v1.6](https://github.com/yveskalume/EventCademy/releases/tag/v1.6) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
-3. ❗ Opened issue [#52](https://github.com/devscast/validable/issues/52) in [devscast/validable](https://github.com/devscast/validable)
-4. ❗ Opened issue [#51](https://github.com/devscast/validable/issues/51) in [devscast/validable](https://github.com/devscast/validable)
-5. 🎉 Merged PR [#39](https://github.com/yveskalume/EventCademy/pull/39) in [yveskalume/EventCademy](https://github.com/yveskalume/EventCademy)
+1. 🔒 Closed issue [#51](https://github.com/devscast/validable/issues/51) in [devscast/validable](https://github.com/devscast/validable)
+2. 🔒 Closed issue [#52](https://github.com/devscast/validable/issues/52) in [devscast/validable](https://github.com/devscast/validable)
+3. ❌ Closed PR [#46](https://github.com/devscast/validable/pull/46) in [devscast/validable](https://github.com/devscast/validable)
+4. ❌ Closed PR [#47](https://github.com/devscast/validable/pull/47) in [devscast/validable](https://github.com/devscast/validable)
+5. ❌ Closed PR [#48](https://github.com/devscast/validable/pull/48) in [devscast/validable](https://github.com/devscast/validable)
 <!--END_SECTION:activity-->
 
 <h3> 📙 Blogposts </h3>
