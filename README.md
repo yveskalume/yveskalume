@@ -20,7 +20,7 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 blogposts
 
-- [Designin scalable compose APIs](https://speakerdeck.com/yveskalume/designin-scalable-compose-apis)
+- [Designing scalable compose APIs](https://speakerdeck.com/yveskalume/designin-scalable-compose-apis)
 - [Understanding memory leak](https://yveskalume.dev/understanding-memory-leak)
 - [Inspect Ktor’s network traffic on Android with Chucker](https://yveskalume.dev/inspect-ktors-network-traffic-on-android-with-chucker-ee2b0e52647a)
 - [Applying Kotlin context receivers](https://medium.com/proandroiddev/applying-kotlin-context-receivers-5f2ad2ec4043)
