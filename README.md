@@ -9,9 +9,9 @@ I am a strong believer in continuous learning, and I am always looking for ways 
 <h3> 👨🏾‍💻 Recents activities </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/qamarelsafadi/KMPAppIconGeneratorPlugin/issues/3#issuecomment-2320064800) in [qamarelsafadi/KMPAppIconGeneratorPlugin](https://github.com/qamarelsafadi/KMPAppIconGeneratorPlugin)
-2. ❗ Opened issue [#7](https://github.com/SmartToolFactory/Compose-Color-Picker-Bundle/issues/7) in [SmartToolFactory/Compose-Color-Picker-Bundle](https://github.com/SmartToolFactory/Compose-Color-Picker-Bundle)
-3. 🔒 Closed issue [#51](https://github.com/devscast/validable/issues/51) in [devscast/validable](https://github.com/devscast/validable)
+1. 🎉 Merged PR [#54](https://github.com/devscast/validable/pull/54) in [devscast/validable](https://github.com/devscast/validable)
+2. ❗ Opened issue [#309](https://github.com/droidconKE/droidconKeKotlin/issues/309) in [droidconKE/droidconKeKotlin](https://github.com/droidconKE/droidconKeKotlin)
+3. 🗣 Commented on [#3](https://github.com/qamarelsafadi/KMPAppIconGeneratorPlugin/issues/3#issuecomment-2320064800) in [qamarelsafadi/KMPAppIconGeneratorPlugin](https://github.com/qamarelsafadi/KMPAppIconGeneratorPlugin)
 4. 🔒 Closed issue [#52](https://github.com/devscast/validable/issues/52) in [devscast/validable](https://github.com/devscast/validable)
 5. ❌ Closed PR [#46](https://github.com/devscast/validable/pull/46) in [devscast/validable](https://github.com/devscast/validable)
 <!--END_SECTION:activity-->
