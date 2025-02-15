@@ -7,7 +7,7 @@ I spend my days (nights !) on :
 - Android Engineering
 - Kotlin, Kotlin Multiplatform, Jetpack Compose
 - Android Security & Reverse Engineering
-- Exploring Rust for fun
+- Somtimes playing with Flutter
 - Tech communities & collaboration
 
  📫 How to reach me
