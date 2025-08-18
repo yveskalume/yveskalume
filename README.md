@@ -1,7 +1,5 @@
 ### Hi ! 👋 I'm Yves <img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
 
-<h3 align="center">Android Engineer & Google Developer Expert for Android</h3>
-
 I spend my days (nights !) on : 
 
 - Android Engineering
